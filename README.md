@@ -12,7 +12,7 @@ It's Ari!
 
 ## Person C:
 
-Person C should modify content here.
+Faiza added her favorite colors.
 
 ## Person D:
 
