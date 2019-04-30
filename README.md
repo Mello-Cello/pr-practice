@@ -18,6 +18,19 @@ Person C should modify content here.
 
 Person D should modify content here.
 
+.==-.                   .-==.
+                 \()8`-._  `.   .'  _.-'8()/
+                 (88"   ::.  \./  .::   "88)
+                  \_.'`-::::.(#).::::-'`._/
+                    `._... .q(_)p. ..._.'
+                      ""-..-'|=|`-..-""
+                      .""' .'|=|`. `"".
+                    ,':8(o)./|=|\.(o)8:`.
+                   (O :8 ::/ \_/ \:: 8: O)
+                    \O `::/       \::' O/
+                     ""--'         `--""   hjw
+
+
 ## Need inspiration?
 
 Need inspiration for what kinds of files to make or change?
